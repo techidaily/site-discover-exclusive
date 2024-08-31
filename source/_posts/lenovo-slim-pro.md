@@ -1,7 +1,7 @@
 ---
 title: Lenovo Slim Pro
-date: 2024-08-28 10:42:14
-updated: 2024-08-29 11:19:32
+date: 2024-08-30T20:31:29.783Z
+updated: 2024-08-31T20:31:29.783Z
 tags:
   - product-reviews
 categories:
@@ -132,6 +132,9 @@ Expand
 
 [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-slim-pro-9i-14-5-miniled-laptop-core-i7-13705h-with-32gb-memory-nvidia-geforce-rtx-4050-1tb-ssd-storm-grey%2F6547279.p) [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flenovo%2Flenovo_slim_series%2Flenovo-slim-pro-9i-gen-8-%2814-inch-intel%29%2Flen101l0039) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ##  Slick Looks: The Lenovo Slim Pro 9i 14 Gen 8's Design
 
 ![The Lenovo Slim Pro 9i 14 Gen 8 with the lock screen open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/the-lenovo-slim-pro-9i-14-gen-8-with-the-lock-screen-openjpg_53086294102_o.jpg) 
@@ -142,12 +145,18 @@ Hannah Stryker / How-To Geek
 
  Above the 14-inch Mini-LED display is the bevel with the integrated camera, and the four microphones are on either side of the lens. The keyboard is a traditional 10-keyless backlit affair with two up-firing speakers on either side and a touchpad below, with another sleek Lenovo logo in the bottom right corner. Meanwhile, the down-firing speakers are on the bottom corners of the device. There's also a large vent system on the bottom of the laptop with the "Lenovo X Power" logo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ###  Ports: You Have Options
 
  I didn't have to worry about having room to plug anything in when using the Slim Pro 9i. The laptop's left side has an HDMI port, two USB-C ports, and a full SD card reader, while the right side has the power button, two USB-A ports, a 3.5mm headphone/microphone jack, and an E-privacy camera shutter.
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Keyboard, Trackpad, and Touchscreen
 
 ![Top view of the keyboard and trackpad on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/top-view-of-the-keyboard-and-trackpad-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53086294747_o.jpg) 
@@ -170,6 +179,9 @@ Close
 
  At 3K, any medium I engaged with looked fantastic. The only downfall is that the ultra-glossy screen made it easy to catch a glare in the daytime, so I needed to angle it down or shut the drapes when it was too bright.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ##  Performance: The Cream of the Crop
 
 ![A Lenovo Slim Pro 9i 14 Gen 8 open on a coffee table 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/a-lenovo-slim-pro-9i-14-gen-8-open-on-a-coffee-table-3jpg_53087048044_o.jpg) 
@@ -184,6 +196,9 @@ Hannah Stryker / How-To Geek
 
  Notably, Lenovo's "X Power" performance made it easy to charge while using the laptop because it was noticeably cooler to the touch than many other Lenovo laptops I've reviewed, such as the [Lenovo Yoga 9i 14 Gen 8](https://extra-tips.techidaily.com/streamlining-speech-to-text-processing-in-powerpoint/). Even while charging, the keyboard stayed comfortably warm and never strayed into uncomfortable territory.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Gaming: A Casual Gamer's Delight
 
 ![Intel Evo i7 and NVIDIA GeForce RTX stickers on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/intel-evo-i7-and-nvidia-geforce-rtx-stickers-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53086860066_o.jpg) 
@@ -200,10 +215,17 @@ Close
 
  Other titles that performed great were "Atomic Heart," "Life Is Strange: True Colors," and "Bramble: The Mountain King."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Immersive Sounds and Sights: The Camera, Microphones, and Speakers
 
 ![Front camera on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/front-camera-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53087047574_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The 5MP camera is one of the best integrated webcams I've seen. When video chatting with my writing group on Zoom or [testing my webcam](https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) for an important meeting, I was impressed with the crispness of the capture. The default settings have a bit of high saturation, but once I turned it down, the balance of color was perfect.
@@ -228,6 +250,9 @@ Your browser does not support the video tag.
 
 Your browser does not support the video tag. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Battery and Charging: Comes and Goes Fast
 
 ![The closed Lenovo Slim Pro 9i 14 Gen 8 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/the-closed-lenovo-slim-pro-9i-14-gen-8-with-its-chargerjpg_53087048139_o.jpg) 
@@ -238,6 +263,10 @@ Hannah Stryker / How-To Geek
 
  Charging was swift, too. With the 140W charger, I averaged a gain of 6.94% per minute or 56.4% per hour. The Achille's heel is gaming, which left the Slim Pro 9i with a 1 to 1.32% drain per minute, or about 60 to 79.2% battery loss per hour.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  Should You Buy The Lenovo Slim Pro 9i 14 Gen 8 Laptop?
 
  The [Lenovo Slim Pro 9i 14 Gen 8](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-slim-pro-9i-14-5-miniled-laptop-core-i7-13705h-with-32gb-memory-nvidia-geforce-rtx-4050-1tb-ssd-storm-grey%2F6547279.p) is a smart buy for anyone who wants the latest Intel i7 Evo CPU combined with incredible work tools and some solid graphics.
@@ -250,6 +279,9 @@ Hannah Stryker / How-To Geek
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lenovo Slim Pro 9i 14 Gen 8 Laptop
 
 9/ 10 
@@ -272,3 +304,46 @@ The Lenovo Slim Pro 9i 14 Gen 8 combines elegant design and power. A quad microp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-8-budget-friendly-cross-platform-video-conferencing-tools-revealed/"><u>[New] In 2024, 8 Budget-Friendly, Cross-Platform Video Conferencing Tools Revealed</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1724766442646-dvd/"><u>「DVD投影に最適化されたカーナビ使用 - エラー無しでスムーズ再生ガイド」</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1-resolve-your-itunes-troubles-fixes-and-tips-for-smooth-functionality/"><u>1. Resolve Your Itunes Troubles: Fixes & Tips for Smooth Functionality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>2024 Approved  A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-live-video-downloaders-how-to-download-live-videos/"><u>2024 Approved  Facebook Live Video Downloaders | How to Download Live Videos?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-focusing-the-lens-advanced-cinematic-techniques/"><u>2024 Approved  Focusing the Lens  Advanced Cinematic Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-frame-by-frame-helpdesk/"><u>2024 Approved  Frame by Frame Helpdesk</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/any-video-converter-risk-analysis-identifying-viruses-and-failures-in-analytics/"><u>Any Video Converter Risk Analysis - Identifying Viruses and Failures in Analytics</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/boost-your-macs-storage-top-10-fast-track-tricks-for-space-optimization/"><u>Boost Your Mac's Storage: Top 10 Fast-Track Tricks for Space Optimization</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/compact-samsung-galaxy-fit2-ultimate-portable-health-monitoring-device/"><u>Compact Samsung Galaxy Fit2 – Ultimate Portable Health Monitoring Device</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/digiarty-software-kundensupport-fur-den-kauf-die-lizenzierung-das-upgrade-und-mehr/"><u>Digiarty Software: Kundensupport Für Den Kauf, Die Lizenzierung, Das Upgrade Und Mehr</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-the-magic-filmora-editors-top-10-highlights/"><u>Discovering the Magic  Filmora Editor's Top 10 Highlights</u></a></li>
+<li><a href="https://network-issues.techidaily.com/displaysystem-halt-on-windows-works-resolved/"><u>DisplaySystem Halt on WIndows (Works Resolved)</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/dvdwindowsandmac/"><u>DVDコピーガードの完全な解除:Windows&Macユーザー向け無料ガイド</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/easy-steps-to-change-mkv-format-using-your-mac/"><u>Easy Steps to Change MKV Format Using Your Mac</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ebxplored-in-apples-latest-operating-system/"><u>Ebxplored in Apple's Latest Operating System</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/free-american-idol-songs-downloadable-for-offline-listening-on-smartphones-and-tablets/"><u>Free 'American Idol' Songs Downloadable for Offline Listening on Smartphones & Tablets</u></a></li>
+<li><a href="https://driver-download.techidaily.com/freshest-driver-installation-techniques-for-windows-compatible-bluetooth-dongles-download-today/"><u>Freshest Driver Installation Techniques for Windows-Compatible Bluetooth Dongles – Download Today!</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/get-your-favorite-movies-in-stunning-8k-resolution-download-options-from-youtube-and-over-1000-websites/"><u>Get Your Favorite Movies in Stunning 8K Resolution: Download Options From YouTube & Over 1000 Websites!</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/get-your-favorite-tunes-download-records-from-pandora-using-our-exclusive-downloader-tool/"><u>Get Your Favorite Tunes: Download Records From Pandora Using Our Exclusive Downloader Tool</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-tecno-camon-30-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Tecno Camon 30 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-8600-secure-driver-download-for-windows-users/"><u>HP Officejet Pro 8600: Secure Driver Download for Windows Users</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-building-captivating-online-media-summaries/"><u>In 2024, Building Captivating Online Media Summaries</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-soundscapes-for-editing-films-and-vids/"><u>In 2024, Ideal Soundscapes for Editing Films & Vids</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-srs-tuning-methods-for-macwin-users/"><u>In 2024, Leading SRS Tuning Methods for Mac/Win Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y78t-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y78t? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigating-youtube-success-through-strategic-studio-use/"><u>In 2024, Navigating YouTube Success Through Strategic Studio Use</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pros-and-cons-reviewing-nikon-d7500/"><u>In 2024, Pros & Cons  Reviewing Nikon D7500</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-shining-up-photos-on-instagram-three-effective-ways/"><u>In 2024, Shining Up Photos on Instagram  Three Effective Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/itunesclipbox/"><u>ITunesにClipboxを統合する手順・エラー対処法</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/leading-dvd-security-software-solutions-for-reliable-cloning-of-drm-protected-media/"><u>Leading DVD Security Software Solutions for Reliable Cloning of DRM-Protected Media</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1724766346894-mac/"><u>Macユーザー向けのビデオプロセッサソフトウェアインストール詳細</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/seamless-transfer-techniques-for-moving-dvd-media-directly-to-sd-card-with-zero-quality-compromise/"><u>Seamless Transfer Techniques for Moving DVD Media Directly to SD Card with Zero Quality Compromise</u></a></li>
+<li><a href="https://win11.techidaily.com/steer-clear-from-cheap-windows-codes-a-cautionary-tale/"><u>Steer Clear From Cheap Windows Codes: A Cautionary Tale</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/top-20-free-tv-series-streaming-platforms-the-ultimate-guide/"><u>Top 20 Free TV Series Streaming Platforms: The Ultimate Guide</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/vergleichen-sie-galaxy-s6-mit-iphone-7-ein-umfassender-blick-auf-die-funktionsunterschiede-von-samsung-und-apple/"><u>Vergleichen Sie Galaxy S6 Mit iPhone 7: Ein Umfassender Blick Auf Die Funktionsunterschiede Von Samsung Und Apple</u></a></li>
+</ul></div>
