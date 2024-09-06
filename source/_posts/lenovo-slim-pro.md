@@ -1,7 +1,7 @@
 ---
 title: Lenovo Slim Pro
-date: 2024-08-30T20:31:29.783Z
-updated: 2024-08-31T20:31:29.783Z
+date: 2024-09-05T10:49:03.161Z
+updated: 2024-09-06T10:49:03.161Z
 tags:
   - product-reviews
 categories:
@@ -11,6 +11,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ## Lenovo Slim Pro
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Slick Looks: The Lenovo Slim Pro 9i 14 Gen 8's Design](https://facebook-videos.techidaily.com/updated-2024-approved-unlock-full-scale-viewing-on-facebook/)
@@ -133,7 +145,16 @@ Expand
 [Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-slim-pro-9i-14-5-miniled-laptop-core-i7-13705h-with-32gb-memory-nvidia-geforce-rtx-4050-1tb-ssd-storm-grey%2F6547279.p) [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flenovo%2Flenovo_slim_series%2Flenovo-slim-pro-9i-gen-8-%2814-inch-intel%29%2Flen101l0039) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Slick Looks: The Lenovo Slim Pro 9i 14 Gen 8's Design
 
@@ -145,9 +166,6 @@ Hannah Stryker / How-To Geek
 
  Above the 14-inch Mini-LED display is the bevel with the integrated camera, and the four microphones are on either side of the lens. The keyboard is a traditional 10-keyless backlit affair with two up-firing speakers on either side and a touchpad below, with another sleek Lenovo logo in the bottom right corner. Meanwhile, the down-firing speakers are on the bottom corners of the device. There's also a large vent system on the bottom of the laptop with the "Lenovo X Power" logo.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ###  Ports: You Have Options
 
  I didn't have to worry about having room to plug anything in when using the Slim Pro 9i. The laptop's left side has an HDMI port, two USB-C ports, and a full SD card reader, while the right side has the power button, two USB-A ports, a 3.5mm headphone/microphone jack, and an E-privacy camera shutter.
@@ -155,7 +173,10 @@ Hannah Stryker / How-To Geek
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  The Keyboard, Trackpad, and Touchscreen
 
@@ -171,6 +192,12 @@ Hannah Stryker / How-To Geek
 
  Unsure [how to enable the touch keyboard on Windows 11](https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-pro-maxipad-solved-drfone-by-drfone-virtual-ios/) to use your laptop like a tablet? Right-click the taskbar and head to "Taskbar Settings." Then, set your touch keyboard to "Always" and tap the touch keyboard icon in your taskbar to launch it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Mini-LED Display: Beautiful Color Contrast
 
  While I prefer OLED, the mini-LED display on the Slim Pro 9i displayed beautiful color and contrast—notably in the blacks, grays, and bright shades. In my time with the device, I streamed plenty of shows via Netflix and some movies, like "The Matrix Resurrections" on Tubi. Even in murky scenes, the blacks were sharp, and the colors were crystal clear. I saw no muddiness when streaming, gaming, or browsing YouTube videos of wildlife and idyllic locales.
@@ -179,30 +206,48 @@ Close
 
  At 3K, any medium I engaged with looked fantastic. The only downfall is that the ultra-glossy screen made it easy to catch a glare in the daytime, so I needed to angle it down or shut the drapes when it was too bright.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ##  Performance: The Cream of the Crop
 
 ![A Lenovo Slim Pro 9i 14 Gen 8 open on a coffee table 3.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/a-lenovo-slim-pro-9i-14-gen-8-open-on-a-coffee-table-3jpg_53087048044_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  While using the Slim Pro 9i 14 Gen 8, I worked on various projects and was never let down. With an Intel Evo i7 GPU (and its 14 cores and 20 threads), multitasking was not a problem. The number of browser tabs I kept open at once was legendary—sometimes as many as 30\. That didn't faze the Slim Pro 9i, nor did my leaving around 20 tabs open while running a YouTube video and Spotify simultaneously as I jumped back and forth from editing photos in Photoshop to writing in Microsoft Word. At most, I noticed a mere second of a stutter when running multiple programs with high CPU requirements, whether in "Balanced" or "Performance" mode.
 
 ![Lenovo Slim Pro 9i 14 Gen 8 X Power Performance sticker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/lenovo-slim-pro-9i-14-gen-8-x-power-performance-stickerjpg_53086860216_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Notably, Lenovo's "X Power" performance made it easy to charge while using the laptop because it was noticeably cooler to the touch than many other Lenovo laptops I've reviewed, such as the [Lenovo Yoga 9i 14 Gen 8](https://extra-tips.techidaily.com/streamlining-speech-to-text-processing-in-powerpoint/). Even while charging, the keyboard stayed comfortably warm and never strayed into uncomfortable territory.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ###  Gaming: A Casual Gamer's Delight
 
 ![Intel Evo i7 and NVIDIA GeForce RTX stickers on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/intel-evo-i7-and-nvidia-geforce-rtx-stickers-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53086860066_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  Although I might not recommend the Slim Pro 9i 14 Gen 8 for competitive gaming, casual to moderate gamers will find the NVIDIA GeForce RTX 4050 GPU and the Intel Evo i7 CPU the ultimate partners for solid gaming fun. I played everything from the vampire survival game "Redfall" to the adventure stealth title "A Plague Tale: Requiem" and found the Slim Pro 9i could handle almost anything. But for the precision needed for competitive shooters, I'd recommend going with a [gaming laptop](https://facebook-video-share.techidaily.com/updated-premium-notebooks-select-the-best-for-professional-edits/) above a regular PC.
@@ -215,16 +260,21 @@ Close
 
  Other titles that performed great were "Atomic Heart," "Life Is Strange: True Colors," and "Bramble: The Mountain King."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Immersive Sounds and Sights: The Camera, Microphones, and Speakers
 
 ![Front camera on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/front-camera-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53087047574_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
@@ -238,6 +288,12 @@ Close
 
 ![5MP quad mic array on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/5mp-quad-mic-array-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53086294467_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek
 
  The automatic noise cancellation worked in my favor to eliminate air conditioning noise and my dog growling, but recording myself with noisy café ambiance wasn't as seamless. Heavy noises made it into my recordings, but the mics still isolated my voice well enough to make me audible.
@@ -250,9 +306,6 @@ Your browser does not support the video tag.
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Battery and Charging: Comes and Goes Fast
 
 ![The closed Lenovo Slim Pro 9i 14 Gen 8 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/the-closed-lenovo-slim-pro-9i-14-gen-8-with-its-chargerjpg_53087048139_o.jpg) 
@@ -264,8 +317,10 @@ Hannah Stryker / How-To Geek
  Charging was swift, too. With the 140W charger, I averaged a gain of 6.94% per minute or 56.4% per hour. The Achille's heel is gaming, which left the Slim Pro 9i with a 1 to 1.32% drain per minute, or about 60 to 79.2% battery loss per hour.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ##  Should You Buy The Lenovo Slim Pro 9i 14 Gen 8 Laptop?
 
@@ -277,11 +332,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![The back of the Lenovo Slim Pro 9i 14 Gen 8 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6547279cv1d.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Lenovo Slim Pro 9i 14 Gen 8 Laptop
 
 9/ 10 
