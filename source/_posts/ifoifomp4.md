@@ -1,7 +1,7 @@
 ---
 title: IFOファイルとは何か、そしてIFOをMP4に直す手順
-date: 2024-09-11T09:06:52.749Z
-updated: 2024-09-16T12:34:33.013Z
+date: 2024-09-16T09:40:59.069Z
+updated: 2024-09-21T02:19:20.717Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/fecebca780102eb248a879666a3e4fe860316aff4213c58165eb8b500d82b1f1.jpg
@@ -87,25 +87,11 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 
 ![Remove Audio from Video iMovie](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-5.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Tip. How to mute part of a video in iMovie?**  
  1\. After detaching the audio from the video, position the playhead (white line on the timeline) and split the audio into two or more parts.  
 2\. Select the audio clip you want to remove.  
 3\. Right-click the clip and select Delete from the menu.  
 4\. Go to Share > File to export your video.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Mute a Video on iPhone and Android?
 
@@ -125,10 +111,10 @@ How to mute audio in a video in Google Photos:
 ![Remove Video Audio in Google Photos](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-6.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### • InShot
@@ -161,16 +147,10 @@ Many online video editors can help you remove background sound from a video. How
 ## 4 Common Ways to Mute a Video
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### • Clipchamp
@@ -182,10 +162,10 @@ Clipchamp is a free non-linear video editor that allows users to mute, trim, com
 ![Clipchamp Mute Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-9.webp) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### • Adobe Premiere Pro
@@ -213,6 +193,13 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 ![VSDC Silence a Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-12.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remove Audio from Video FAQs
 
 ### Q1\. Can I remove the audio from an iPhone video?
@@ -227,6 +214,13 @@ Firstly, import your video into the editing software and separate the audio from
  Check the complete guide on [how to remove certain audio from video >>](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q3\. How to mute a video on different apps?
 
@@ -271,18 +265,19 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-practices-for-documenting-ps4-gameplay/"><u>[New] In 2024, Best Practices for Documenting PS4 Gameplay</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-maximizing-your-tiktok-intro-a-mac-guide/"><u>[New] Maximizing Your TikTok Intro A Mac Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-efficient-techniques-for-distributing-youtube-videos-via-facebook/"><u>2024 Approved Efficient Techniques for Distributing YouTube Videos via Facebook</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/effortless-conversion-of-mka-files-to-high-quality-flac-audio/"><u>Effortless Conversion of MKA Files to High-Quality FLAC Audio</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-voice-content-with-garageband-mastery/"><u>Elevate Your Voice Content with GarageBand Mastery</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/flutter60/"><u>Flutter率60%以上を達成する動画変換技術</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/free-laughs-online-a-comprehensive-guide-to-downloading-humorous-clips-from-youtube-and-beyond/"><u>Free Laughs Online: A Comprehensive Guide to Downloading Humorous Clips From YouTube & Beyond</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/guide-to-converting-webm-files-to-avi-format-both-online-tools-and-software-solutions/"><u>Guide to Converting WebM Files to AVI Format - Both Online Tools and Software Solutions</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/how-to-use-vlc-for-effortless-dvd-to-mp4-conversion-a-comprehensive-guide/"><u>How to Use VLC for Effortless DVD-to-MP4 Conversion - A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/installing-the-popular-black-tears-extension-on-your-kodi-device-with-matrix-and-leia-assistance/"><u>Installing the Popular 'Black Tears' Extension on Your Kodi Device with Matrix and Leia Assistance</u></a></li>
-<li><a href="https://games-able.techidaily.com/point-press-and-play-mouse-vs-graphics-precision/"><u>Point, Press and Play: Mouse Vs. Graphics Precision</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-the-power-of-artificial-intelligence-setting-up-nvidias-rtx-chatbot-for-your-pc-use/"><u>Unleash the Power of Artificial Intelligence: Setting Up NVIDIA's RTX Chatbot for Your PC Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-revive-missing-fb-watch-icon-solutions/"><u>[New] 2024 Approved Revive Missing FB Watch Icon - Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-tips-for-quality-video-with-nvidia/"><u>[Updated] In 2024, Expert Tips for Quality Video with NVIDIA</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/av1-vs-vp9-av1vp9/"><u>【AV1 VS VP9】: AV1とVP9コーデックの違いを比べてみましょう - 高画質解像度、圧縮率、互換性、用途…</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/blu-raywindows-113/"><u>Blu-Ray動画・音楽をWindows 11で見る方法：無料プレーヤーのトップ3</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/effortless-dvd-winx-dvd-copy-iso/"><u>Effortless DVD 복사기 WinX DVD Copy 활용: 원형 ISO 제작 기술에 대한 간단한 안내</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/elevate-your-visuals-using-winxvideos-ai-powered-super-resolution-technology/"><u>Elevate Your Visuals Using Winxvideo's AI-Powered Super Resolution Technology</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-tv-watching-on-your-laptop-or-tablet-through-mobile-internet-with-amazon-firestick/"><u>How to Enable TV Watching on Your Laptop or Tablet Through Mobile Internet with Amazon Firestick</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>In 2024, Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/leggi-il-tuo-contratto-di-licenza-con-digiarty-condizioni-per-gli-utenti-finali-winxdvd/"><u>Leggi Il Tuo Contratto Di Licenza Con Digiarty: Condizioni per Gli Utenti Finali WinXDVD</u></a></li>
+<li><a href="https://techidaily.com/navigate-through-high-tech-terrains-with-toms-hardware-guides/"><u>Navigate Through High-Tech Terrains with Tom's Hardware Guides</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-samsung-galaxy-m14-4g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Samsung Galaxy M14 4G Black and White | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ultimate-tutorial-on-transforming-avchd-mtsm2ts-into-apple-quicktime-mov-videos/"><u>Ultimate Tutorial on Transforming AVCHD (MTS/M2TS) Into Apple QuickTime MOV Videos</u></a></li>
 </ul></div>
 
