@@ -1,7 +1,7 @@
 ---
 title: "Experience Xreal Air 2 Firsthand: Innovative Display Technology Transforms VR"
-date: 2024-09-11T20:42:00.849Z
-updated: 2024-09-16T12:37:50.357Z
+date: 2024-09-29T17:23:04.317Z
+updated: 2024-09-30T16:03:43.717Z
 tags:
   - product-reviews
 categories:
@@ -65,6 +65,13 @@ A Wearable Display built on cutting-edge AR technologies with industry-leading i
 
 ![Display visible through the XReal Air 2 Glasses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/display-visible-throught-the-xreal-air-2-glassesjpg_53347569115_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Plug the Xreal Air 2 glasses into a compatible USB-C device and pop the glasses on your face to get a wearable display. There are some caveats, but that’s largely it. There's no battery to charge and no wireless signal to connect to. The simplicity of the design is great, but I have some complex feelings about actually using the glasses. First, more on what they do.
@@ -75,6 +82,19 @@ Sergio Rodriguez / How-To Geek
 
 ![Angled view of the XReal Air 2 Glasses with the light shield on.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/angled-view-of-the-xreal-air-2-glasses-with-the-light-dimmer-onjpg_53346247047_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
 Air 2 with the light shield over the front lenses.
@@ -82,6 +102,13 @@ Air 2 with the light shield over the front lenses.
  If you connect the Xreal Air 2 to one of a dozen or so supported Android phones, you can use the [Nebula app](https://www.xreal.com/app/) to do what the company says are augmented reality things. I used a OnePlus phone and was able to see Xreal’s vision for AR. This includes a grid of icons you point at and select using the phone. There was nothing compelling about viewing my phone in this way that navigating the interface with a clunky pointer justified.
 
  The Nebula app for Mac computers puts one, two, or three desktop screens next to each other in your field of view. Sort of. I had to pan my head left and right to see all the displays and maintain a distance where I could read the text. I understand the goal of the AR app, but it was not an enjoyable experience overall and even caused my third-party app for taking screenshots to crash. A Windows version of the app is listed as coming soon.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What Are the Xreal Air 2 Glasses Good For?
 
@@ -111,6 +138,19 @@ Sergio Rodriguez / How-To Geek
 
 ![Person holding the beam for the XReal Air 2 Glasses.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/person-holding-the-beam-for-the-xreal-air-2-glassesjpg_53347118211_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  Taking a portable console like the Switch and giving it a much bigger screen is a great use of this product. It does require the $120 [Xreal Beam](https://www.xreal.com/beam) accessory for compatibility, however. Some devices like the [ASUS ROG Ally](https://some-guidance.techidaily.com/2024-approved-streamline-and-shine-the-top-5-video-quality-tools/) don’t require the Beam, but the Switch, PlayStation 5, and Xbox do need it.
@@ -121,13 +161,6 @@ Sergio Rodriguez / How-To Geek
 
  The Smooth Flow mode was more pleasant to look at than the Air Cast one, but unless you need to use the Beam to gain compatibility with an unsupported device, I would still skip its cost and fuss. Regrettably, that cooling element in the Beam is loud enough to hear when it’s charging or being used for extended periods of time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Price and Availability
 
  The Xreal Air 2 retails for $399, and the [Air 2 Pro costs $449](https://us.shop.xreal.com/products/xreal-air-2-pro). For the extra $50, you get three levels of electrochromic dimming for more immersion.
@@ -137,13 +170,6 @@ Sergio Rodriguez / How-To Geek
 ##  Should You Buy the Xreal Air 2 Glasses?
 
 ![Looking through the lenses, showing the nose piece and presence sensor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/11/camera-and-nose-piece-on-the-xreal-air-2jpg_53347440654_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -178,5 +204,22 @@ A Wearable Display built on cutting-edge AR technologies with industry-leading i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-quick-start-downloading-and-using-tiktok-on-macbook-for-2024/"><u>[New] Quick Start Downloading and Using TikTok on MacBook for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sovled-necromunda-on-pc-addressing-frequent-game-crashes-and-how-to-resolve-them/"><u>[SOVLED] Necromunda on PC: Addressing Frequent Game Crashes and How to Resolve Them</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtubes-music-magic-best-free-tools-for-wav-conversion/"><u>[Updated] 2024 Approved YouTube's Music Magic Best Free Tools for WAV Conversion</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-brevity-in-action-the-process-of-shortening-youtube-videos/"><u>[Updated] In 2024, Brevity in Action The Process of Shortening YouTube Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-achieving-the-pinnacle-of-color-accuracy-in-11-crucial-edits/"><u>2024 Approved Achieving the Pinnacle of Color Accuracy in 11 Crucial Edits</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/accesso-disponibilita-per-encoder-di-codice-av1-con-supporto-hardwaresoftware-aggiornato/"><u>Accesso Disponibilità per Encoder Di Codice AV1 Con Supporto Hardware/Software Aggiornato</u></a></li>
+<li><a href="https://program-issues.techidaily.com/adobe-troubleshooting-overcoming-the-startup-failure-error-0xc00astern/"><u>Adobe Troubleshooting: Overcoming the Startup Failure (Error 0Xc00astern)</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/as-melhores-tecnicas-para-digitizar-seu-dvd-atualizacoes-de-2023/"><u>As Melhores Técnicas Para Digitizar Seu DVD: Atualizações De 2023</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/can-your-blu-ray-player-handle-dvd-formats-discover-compatibility-today/"><u>Can Your Blu-Ray Player Handle DVD Formats? Discover Compatibility Today!</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/dvd-bypass-per-codec-region-free-conversion-senza-limiti/"><u>DVD Bypass per Codec Region FREE: Conversion Senza Limiti</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/easily-transfer-your-favorite-movies-convert-dvds-into-psp-compatible-formats-for-free/"><u>Easily Transfer Your Favorite Movies: Convert DVDs Into PSP-Compatible Formats for Free!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/secure-software-downloads-discover-free-dvd-and-video-tools-at-winxddownloadcenter/"><u>Secure Software Downloads: Discover Free DVD & Video Tools at WinXDDownloadCenter</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/winx-dvd-ripper-platinum-ripodi-rapido-da-dvd-a-mp4-h264hevc-con-funzione-ufficiale/"><u>WinX DVD Ripper Platinum: Ripodi Rapido Da DVD a MP4 H.264/HEVC Con Funzione Ufficiale</u></a></li>
+</ul></div>
 

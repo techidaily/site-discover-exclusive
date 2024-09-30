@@ -1,7 +1,7 @@
 ---
 title: Lenovo Slim Pro
-date: 2024-09-12T12:06:52.094Z
-updated: 2024-09-16T04:21:21.886Z
+date: 2024-09-29T17:58:59.815Z
+updated: 2024-09-30T17:17:14.261Z
 tags:
   - product-reviews
 categories:
@@ -32,6 +32,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
  After reviewing the [Lenovo Slim Pro 9i 16 Gen 8 laptop](https://some-skills.techidaily.com/ultimate-viewing-vistas-backdrop-recommendations-for-2024/), the Slim Pro 9i 14 Gen 8 was familiar. Overall, I found the 14-inch version performed better than the larger contender in terms of daily tasks and battery life. But this wasn't my first "slim" Lenovo rodeo, nor do I expect it to be my last. I reviewed the [Lenovo Slim 9i 14-inch Gen 7 laptop](https://some-skills.techidaily.com/the-echo-of-past-interactions-unraveling-your-facebook-history-for-2024/) in 2022 and was impressed with its power—but the Slim Pro 9i skips the more basic slim specs for pro specs. Wrapped up in a luxe "Storm Gray" chassis, the Pro 9i 14 steps it up with an Intel Evo i7 CPU, an NVIDIA GPU, Lenovo's "X Power" performance, a smart integrated camera and quad mic system, and a sweet Mini-LED screen that doesn't feel like OLED's cheaper cousin (though it is). On the flip side, you might not love the speaker system's bass and the soldered memory, but if you can overlook these small flaws, you'll love what this laptop has to offer.
 
 ![The back of the Lenovo Slim Pro 9i 14 Gen 8 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/6547279cv1d.png) 
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/2023-howtogeek-ec_final.png) 
 
@@ -142,6 +155,19 @@ Hannah Stryker / How-To Geek
 
  Above the 14-inch Mini-LED display is the bevel with the integrated camera, and the four microphones are on either side of the lens. The keyboard is a traditional 10-keyless backlit affair with two up-firing speakers on either side and a touchpad below, with another sleek Lenovo logo in the bottom right corner. Meanwhile, the down-firing speakers are on the bottom corners of the device. There's also a large vent system on the bottom of the laptop with the "Lenovo X Power" logo.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Ports: You Have Options
 
  I didn't have to worry about having room to plug anything in when using the Slim Pro 9i. The laptop's left side has an HDMI port, two USB-C ports, and a full SD card reader, while the right side has the power button, two USB-A ports, a 3.5mm headphone/microphone jack, and an E-privacy camera shutter.
@@ -151,6 +177,13 @@ Close
 ##  The Keyboard, Trackpad, and Touchscreen
 
 ![Top view of the keyboard and trackpad on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/top-view-of-the-keyboard-and-trackpad-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53086294747_o.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -162,13 +195,6 @@ Hannah Stryker / How-To Geek
 
  Unsure [how to enable the touch keyboard on Windows 11](https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-13-pro-maxipad-solved-drfone-by-drfone-virtual-ios/) to use your laptop like a tablet? Right-click the taskbar and head to "Taskbar Settings." Then, set your touch keyboard to "Always" and tap the touch keyboard icon in your taskbar to launch it.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  The Mini-LED Display: Beautiful Color Contrast
 
  While I prefer OLED, the mini-LED display on the Slim Pro 9i displayed beautiful color and contrast—notably in the blacks, grays, and bright shades. In my time with the device, I streamed plenty of shows via Netflix and some movies, like "The Matrix Resurrections" on Tubi. Even in murky scenes, the blacks were sharp, and the colors were crystal clear. I saw no muddiness when streaming, gaming, or browsing YouTube videos of wildlife and idyllic locales.
@@ -176,6 +202,13 @@ Hannah Stryker / How-To Geek
 Close 
 
  At 3K, any medium I engaged with looked fantastic. The only downfall is that the ultra-glossy screen made it easy to catch a glare in the daytime, so I needed to angle it down or shut the drapes when it was too bright.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Performance: The Cream of the Crop
 
@@ -187,6 +220,13 @@ Hannah Stryker / How-To Geek
 
 ![Lenovo Slim Pro 9i 14 Gen 8 X Power Performance sticker.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/lenovo-slim-pro-9i-14-gen-8-x-power-performance-stickerjpg_53086860216_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  Notably, Lenovo's "X Power" performance made it easy to charge while using the laptop because it was noticeably cooler to the touch than many other Lenovo laptops I've reviewed, such as the [Lenovo Yoga 9i 14 Gen 8](https://extra-tips.techidaily.com/streamlining-speech-to-text-processing-in-powerpoint/). Even while charging, the keyboard stayed comfortably warm and never strayed into uncomfortable territory.
@@ -194,13 +234,6 @@ Hannah Stryker / How-To Geek
 ###  Gaming: A Casual Gamer's Delight
 
 ![Intel Evo i7 and NVIDIA GeForce RTX stickers on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/intel-evo-i7-and-nvidia-geforce-rtx-stickers-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53086860066_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -218,19 +251,6 @@ Close
 
 ![Front camera on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/front-camera-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53087047574_o.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
  The 5MP camera is one of the best integrated webcams I've seen. When video chatting with my writing group on Zoom or [testing my webcam](https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-moto-g24-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) for an important meeting, I was impressed with the crispness of the capture. The default settings have a bit of high saturation, but once I turned it down, the balance of color was perfect.
@@ -244,10 +264,10 @@ Close
 ![5MP quad mic array on the Lenovo Slim Pro 9i 14 Gen 8.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/5mp-quad-mic-array-on-the-lenovo-slim-pro-9i-14-gen-8jpg_53086294467_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -258,6 +278,19 @@ Hannah Stryker / How-To Geek
 
 Your browser does not support the video tag. 
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Microphone Test on the Lenovo Slim Pro 9i 14 in a Noisy Environment
 
 Your browser does not support the video tag. 
@@ -267,10 +300,10 @@ Your browser does not support the video tag.
 ![The closed Lenovo Slim Pro 9i 14 Gen 8 with its charger.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2023/08/the-closed-lenovo-slim-pro-9i-14-gen-8-with-its-chargerjpg_53087048139_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -312,5 +345,26 @@ The Lenovo Slim Pro 9i 14 Gen 8 combines elegant design and power. A quad microp
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-bring-life-and-movement-to-stills-with-illustrator-techniques/"><u>[New] In 2024, Bring Life & Movement to Stills with Illustrator Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-preparing-for-facebooks-updated-marketing-strategy/"><u>[New] Preparing for Facebook’s Updated Marketing Strategy</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-find-a-niche-market-on-youtube/"><u>[Updated] How to Find A Niche Market on YouTube</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/miomiopc-2024/"><u>「Miomioアプリ起動失敗時の詳しい原因と解決策(PC/スマホ/タブレット) - 2024年ガイド」</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1-seamless-video-playback-on-macos-catalina-with-top-quicktime-7-substitutes/"><u>1. Seamless Video Playback on macOS Catalina with Top QuickTime 7 Substitutes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-xsplit-hub-centralized-download-and-evaluation/"><u>2024 Approved XSplit Hub Centralized Download & Evaluation</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/dvd-videodvd/"><u>無料DVD-Video形式変換：シンプルな方法で家庭用DVDにビデオを保存・再生</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-srt-to-xmlssa-transformation-guide-for-2024/"><u>Comprehensive SRT to XML/SSA Transformation Guide for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/descubre-los-metodos-mas-eficaces-para-convertir-dvd-usando-la-herramienta-de-software-y-digitales/"><u>Descubre Los Métodos Más Eficaces Para Convertir DVD Usando La Herramienta De Software Y Digitales</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/essential-listings-the-leading-tv-streaming-houses/"><u>Essential Listings The Leading TV Streaming Houses</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-facile-pour-transformer-des-grandes-vob-video-object-avec-ou-sans-protection-en-mp4-gratuitement/"><u>Guide Facile Pour Transformer Des Grandes VOB (Vídeo Object) Avec Ou Sans Protection en MP4 Gratuitement</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-to-create-your-own-music-cds-using-imgburn-a-simple-guide/"><u>How to Create Your Own Music CDs Using ImgBurn - A Simple Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-maximizing-your-tiktok-impact-from-fans-to-followers-and-beyond/"><u>In 2024, Maximizing Your TikTok Impact From Fans to Followers and Beyond</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/live-stream-the-fifa-world-cup-russia-2018-best-free-channels-and-apps-for-viewers-in-the-us-uk-canada-and-australia/"><u>Live Stream the FIFA World Cup Russia 2018: Best Free Channels & Apps for Viewers in the US, UK, Canada, and Australia</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/no-email-or-phone-heres-how-to-regain-access-to-your-facebook-profile/"><u>No Email or Phone? Here’s How to Regain Access to Your Facebook Profile</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-how-can-you-save-your-favorite-trovo-content/"><u>Step-by-Step Guide: How Can You Save Your Favorite Trovo Content?</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ultimate-tutorial-for-opening-vob-movies-on-windows-11-macos-and-other-devices-successfully/"><u>Ultimate Tutorial for Opening VOB Movies on Windows 11, macOS & Other Devices Successfully</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/windows-11-and-10-optimal-hevc-h265-encoder-for-quality-4k-video-conversion/"><u>Windows 11 & 10 Optimal HEVC H.265 Encoder for Quality 4K Video Conversion</u></a></li>
+</ul></div>
 
