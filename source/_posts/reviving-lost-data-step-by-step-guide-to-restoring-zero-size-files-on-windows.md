@@ -1,7 +1,7 @@
 ---
 title: "Reviving Lost Data: Step-by-Step Guide to Restoring Zero-Size Files on Windows"
-date: 2024-11-18T00:36:11.719Z
-updated: 2024-11-23T04:08:01.064Z
+date: 2024-11-26T10:33:32.774Z
+updated: 2024-12-01T03:34:50.954Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be85f232f57f9da3d1c3125e2.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -48,10 +52,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
@@ -82,10 +82,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3\. Recover selected files**
 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
@@ -107,7 +103,7 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
@@ -115,11 +111,11 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
@@ -130,6 +126,10 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
@@ -137,6 +137,14 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -149,7 +157,7 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2\. Click on **System Restore** \> **Next**.
@@ -191,10 +199,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
@@ -220,7 +224,7 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
@@ -231,14 +235,10 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -256,21 +256,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-rapid-rendering-of-fortnite-icons/"><u>[New] In 2024, Rapid Rendering of Fortnite Icons</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-become-a-tiktok-trendsetter-perfecting-reactions-with-filmoras-advanced-techniques/"><u>[Updated] 2024 Approved Become a TikTok Trendsetter Perfecting Reactions with Filmora’s Advanced Techniques</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1725285242747-2024dvd/"><u>「2024年最新技術：パソコンでDVD画像ファイルへの変換ガイド！」</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-producing-square-videos-in-imovie-for-instagram/"><u>2024 Approved Step-by-Step Producing Square Videos in iMovie for Instagram</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/comment-convertir-des-videos-en-4k-avec-hevc-guides-complets-et-tutoriels/"><u>Comment Convertir Des Vidéos en 4K Avec HEVC : Guides Complets Et Tutoriels</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/discover-the-leading-free-dvd-ripper-apps-for-windows-10-and-11-get-full-version-download-now/"><u>Discover the Leading Free DVD Ripper Apps for Windows 10 and 11 , Get Full Version Download Now!</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-printer-capabilities-with-updated-hp-officejet-pro-8620-drivers-on-pcs/"><u>Enhance Printer Capabilities with Updated HP OfficeJet Pro 8620 Drivers on PCs</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/get-the-latest-version-of-windows-live-movie-maker-for-compatibility-with-windows-7-8-10-and-11/"><u>Get the Latest Version of Windows Live Movie Maker for Compatibility with Windows 7, 8, 10 & 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/glacial-gala-winter-olympics-excellence/"><u>Glacial Gala Winter Olympics Excellence</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/guide-complete-comment-installer-le-logiciel-de-montage-video-libre-pour-votre-lecteur-dvd-en-une-journee/"><u>Guide Complète : Comment Installer Le Logiciel De Montage Vidéo Libre Pour Votre Lecteur DVD en Une Journée</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-11s-malfunctioning-night-light-setting/"><u>How to Resolve Windows 11'S Malfunctioning Night Light Setting</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet/"><u>In 2024, How to Captivate Audiences with PPT on Mobile/Laptop in GMeet</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-15-pro-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 15 Pro</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-to-seamless-downscaling-of-h264-files-to-smaller-quality-retained-h265-versions/"><u>Step-by-Step Guide to Seamless Downscaling of H.2_64 Files to Smaller, Quality Retained H.265 Versions</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/the-ultimate-guide-to-adobe-premiere-pros-time-warp-feature-step-by-step-instructions-for-smooth-transitions/"><u>The Ultimate Guide to Adobe Premiere Pro's Time Warp Feature: Step-by-Step Instructions for Smooth Transitions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-prime-low-cost-full-hd-cameras-for-stunts/"><u>[New] Prime Low-Cost Full HD Cameras for Stunts</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/dvdpcisomp4/"><u>【初心者向け】DVDをPCに移行するためのISO/MP4変換ガイド」</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-superior-defense-against-cyber-threats-discover-the-power-of-malwarefoxs-complimentary-antivirus-solution/"><u>1. Superior Defense Against Cyber Threats: Discover the Power of MalwareFox's Complimentary Antivirus Solution</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ad-free-uninterrupted-streaming-top-techniques-and-lessons-for-seamless-video-viewing/"><u>Ad-Free, Uninterrupted Streaming: Top Techniques and Lessons for Seamless Video Viewing</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/dvd-creation-simplified-mastering-the-art-of-writing-iso-files-onto-discs-in-windows-10-and-macos/"><u>DVD Creation Simplified: Mastering the Art of Writing ISO Files Onto Discs in Windows 10 & macOS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/evaluating-djis-phantom-3-features/"><u>Evaluating DJI's Phantom 3 Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-pro-8740-drivers-on-windows-11108-free-downloads/"><u>Get Your HP Officejet Pro 8740 Drivers on Windows 11/10/8 - Free Downloads</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-pratique-comment-partager-des-fichiers-multimedias-volumineux-superieur-a-25mo-par-email-gratuitement-sur-google/"><u>Guide Pratique: Comment Partager Des Fichiers Multimédias Volumineux Supérieur À 25Mo Par Email Gratuitement Sur Google</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a58-4g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-cutting-edge-tactics-for-polishing-your-social-media-vids-on-instagram/"><u>In 2024, Cutting-Edge Tactics for Polishing Your Social Media Vids on Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quickest-windowed-image-analyzer/"><u>In 2024, Quickest Windowed Image Analyzer</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/install-the-winx-video-ai-software-on-your-android-device/"><u>Install the Winx Video AI Software on Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-0x800704cf-problem-in-windows-microsoft-store/"><u>Overcoming 0X800704CF Problem in Windows' Microsoft Store</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/pokemon-go-solutions-step-by-step-fix-for-game-malfunctions-and-error-messages/"><u>Pokémon GO Solutions: Step-by-Step Fix for Game Malfunctions and Error Messages</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/quick-guide-transforming-avchd-videos-into-ipad-format-using-top-rated-converters/"><u>Quick Guide: Transforming AVCHD Videos Into iPad Format Using Top-Rated Converters</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-selecting-the-ideal-iphone-for-mobile-gaming/"><u>The Ultimate Guide: Selecting the Ideal iPhone for Mobile Gaming</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/top-6-free-video-converters-on-windows-11-explained-why-they-excel-in-performance/"><u>Top 6 Free Video Converters on Windows 11 Explained: Why They Excel in Performance</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/troubleshooting-quicktime-issues-on-macbook-and-imac-proven-fixes/"><u>Troubleshooting QuickTime Issues on MacBook & iMac: Proven Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ultimate-visionary-insights-the-top-8k-cameras-guide-for-2024/"><u>Ultimate Visionary Insights The Top 8K Cameras Guide for 2024</u></a></li>
 </ul></div>
 
