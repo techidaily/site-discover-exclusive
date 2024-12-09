@@ -1,7 +1,7 @@
 ---
 title: Expand Your Mixing Skills with Hercules DJControl Starlight and Inpulse 200 - Now DEX-3 Ready!
-date: 2024-11-24T08:53:39.078Z
-updated: 2024-12-01T04:00:32.171Z
+date: 2024-12-07T23:15:56.712Z
+updated: 2024-12-08T22:57:23.461Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Starlight
@@ -33,7 +33,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 [![Hercules DJControl Starlight](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=300%2C106&ssl=1 "Hercules DJControl Starlight")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=1000%2C352&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, the DJControl Starlight packs all the features needed to mix and scratch. With its built-in audio interface, the DJControl Starlight offers pre-listening in the headphones so you can then play your mix on speakers, which is perfect for learning or creating new mixes. The system is so comprehensive for its size that it boasts all the essential features such as bass equalization/filter knobs for smooth transitions or touch-sensitive jog wheels for easy scratching. The added bonus: the bright and powerful RGB backlighting with unique strobe effects to make it easier to learn how to mix.
@@ -41,7 +41,7 @@ Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, th
 Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in your backpack and go” Controller that’s ideal for house parties and smaller mobile events. It even has a few bells and whistles not available with the aforementioned Numark DJ2GO2, as well. At a price-point of only $89.99 it’s at the very least a fantastic practice unit. For more information on specifications visit the [Hercules DJ Control Starlight Specifications Page](https://www.hercules.com/en-us/product/djcontrolstarlight/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 200
@@ -49,7 +49,7 @@ Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in you
 [![Hercules DJControl Inpulse 200](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=1030%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [DJControl Inpulse 200](https://www.hercules.com/en-us/product/djcontrolinpulse200/) has the industry-standard look like many other popular entry-level controllers on the market. It’s equipped with two decks with 8 performance pads per decks, touch-sensitive jog wheels, a 3 band EQ and filter on the mixer and a built-in audio interface with headphone pre-fade listening. It’s a step up from the Starlight, and will run you $119.99 at most online DJ equipment shops. Another small form controller that you can throw in a bag and hit the road with. [Learn more about the specifications on the Hercules DJControl](https://www.hercules.com/en-us/product/djcontrolinpulse200/).
@@ -77,7 +77,7 @@ Keep an eye out for a blog post regarding DEX 3 support for a couple additional 
 _Have questions about the **Hercules DJ Control Starlight** or **Hercules DJ Control Inpulse 200** and how they work with our DEX 3 **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,19 +99,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/06/herculessupported.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-creative-composition-collage-tips-liven-up-your-surroundings/"><u>[New] 2024 Approved Creative Composition Collage Tips Liven Up Your Surroundings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-building-a-powerful-community-of-insta-followers/"><u>[New] In 2024, Building a Powerful Community of Insta-Followers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-seamless-screens-and-cameras-recording-methods/"><u>[New] Seamless Screens & Cameras Recording Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>2024 Approved Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/54k65l2v5bplusf6aci5lplusd5a2y5ycl5lq65pw45poa77ya5pio5pm66yg45poh55qe5oyh5y2x/"><u>為何必須保存個人數據：明智選擇的指南</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-ryzen-5-2400g-driver-software-swift-and-effortless-download-steps/"><u>AMD Ryzen 5 2400G Driver Software - Swift and Effortless Download Steps</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/best-free-backup-software-for-windows-server-2ergy-2008-r2/"><u>Best Free Backup Software for Windows Server 2Ergy (2008, R2)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-claude-and-chatgpt-determining-the-superior-ai-chatbot-for-daily-use/"><u>Comparing Claude and ChatGPT: Determining the Superior AI Chatbot for Daily Use</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/ios-ebs-16-erweiterte-funktion-zur-identifizierung-und-loschung-von-doppelbildern-auf-ihrem-iphone-mit-fonetool/"><u>IOS Ebs 16: Erweiterte Funktion Zur Identifizierung Und Löschung Von Doppelbildern Auf Ihrem iPhone Mit FoneTool</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/missing-content-the-pages-youre-seeking-cannot-be-found/"><u>Missing Content - The Pages You're Seeking Cannot Be Found</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/protecting-files-with-cryptography-explore-aomei-backuppers-capabilities/"><u>Protecting Files with Cryptography: Explore AOMEI Backupper's Capabilities</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/ultimate-tutorial-restoring-accidentally-erased-footage-in-the-dji-go-application/"><u>Ultimate Tutorial: Restoring Accidentally Erased Footage in the DJI GO Application</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-capture-to-masterpiece-the-best-1080p-video-editing-software/"><u>Updated From Capture to Masterpiece The Best 1080P Video Editing Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>2024 Approved The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/accelerate-your-pcs-efficiency-expert-tips-from-yl-computing/"><u>Accelerate Your PC's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-worlds-solutions-for-no-audio-in-valheim-pc-edition/"><u>Fixing Silent Worlds: Solutions for 'No Audio' In Valheim PC Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-facile-pour-conversion-dun-fichier-webm-en-mp3-avec-des-outils-gratuits-sur-internet-ou-ordinateur/"><u>Guide Facile Pour Conversion D'un Fichier WEBM en MP3 Avec Des Outils Gratuits Sur Internet Ou Ordinateur</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/identifying-your-video-graphics-card-types-models-and-steps-expert-advice-by-yl-computing/"><u>Identifying Your Video Graphics Card: Types, Models & Steps - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailored-macos-tutorials-for-editing-srt-files/"><u>In 2024, Tailored macOS Tutorials for Editing SRT Files</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/premium-hd-easter-photo-collection-for-desktops-and-mobile-devices-ultimate-visual-experience-with-yl-software/"><u>Premium HD Easter Photo Collection for Desktops and Mobile Devices - Ultimate Visual Experience with YL Software</u></a></li>
+<li><a href="https://win-unique.techidaily.com/resolved-correct-solutions-for-a-glitchy-display-and-vanished-taskbar-on-windows-11/"><u>Resolved: Correct Solutions for a Glitchy Display & Vanished Taskbar on Windows 11</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/transform-your-mobile-dj-services-with-these-5-powerful-strategies/"><u>Transform Your Mobile DJ Services with These 5 Powerful Strategies!</u></a></li>
 </ul></div>
 
