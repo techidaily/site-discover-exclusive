@@ -1,7 +1,7 @@
 ---
 title: Expand Your Mixing Skills with Hercules DJControl Starlight and Inpulse 200 - Now DEX-3 Ready!
-date: 2024-12-09T17:15:06.589Z
-updated: 2024-12-15T17:55:49.465Z
+date: 2024-12-22T16:00:19.607Z
+updated: 2024-12-24T16:00:13.014Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Starlight
@@ -33,7 +33,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 [![Hercules DJControl Starlight](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=300%2C106&ssl=1 "Hercules DJControl Starlight")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=1000%2C352&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, the DJControl Starlight packs all the features needed to mix and scratch. With its built-in audio interface, the DJControl Starlight offers pre-listening in the headphones so you can then play your mix on speakers, which is perfect for learning or creating new mixes. The system is so comprehensive for its size that it boasts all the essential features such as bass equalization/filter knobs for smooth transitions or touch-sensitive jog wheels for easy scratching. The added bonus: the bright and powerful RGB backlighting with unique strobe effects to make it easier to learn how to mix.
@@ -41,7 +41,7 @@ Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, th
 Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in your backpack and go” Controller that’s ideal for house parties and smaller mobile events. It even has a few bells and whistles not available with the aforementioned Numark DJ2GO2, as well. At a price-point of only $89.99 it’s at the very least a fantastic practice unit. For more information on specifications visit the [Hercules DJ Control Starlight Specifications Page](https://www.hercules.com/en-us/product/djcontrolstarlight/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Inpulse 200
@@ -49,7 +49,7 @@ Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in you
 [![Hercules DJControl Inpulse 200](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=1030%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [DJControl Inpulse 200](https://www.hercules.com/en-us/product/djcontrolinpulse200/) has the industry-standard look like many other popular entry-level controllers on the market. It’s equipped with two decks with 8 performance pads per decks, touch-sensitive jog wheels, a 3 band EQ and filter on the mixer and a built-in audio interface with headphone pre-fade listening. It’s a step up from the Starlight, and will run you $119.99 at most online DJ equipment shops. Another small form controller that you can throw in a bag and hit the road with. [Learn more about the specifications on the Hercules DJControl](https://www.hercules.com/en-us/product/djcontrolinpulse200/).
@@ -77,7 +77,7 @@ Keep an eye out for a blog post regarding DEX 3 support for a couple additional 
 _Have questions about the **Hercules DJ Control Starlight** or **Hercules DJ Control Inpulse 200** and how they work with our DEX 3 **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,19 +99,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/06/herculessupported.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-windows-hdri-techniques-for-videographers-for-2024/"><u>[New] Windows HDRI Techniques for Videographers for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-smartest-ways-to-track-wedding-dates-ios-and-android-style/"><u>[Updated] 2024 Approved Smartest Ways to Track Wedding Dates, iOS & Android Style</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1-how-can-i-safeguard-my-pc-against-malware-attacks-expert-advice-from-yl-computing/"><u>1. How Can I Safeguard My PC Against Malware Attacks - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/accelerate-your-pcs-efficiency-expert-tips-from-yl-computing/"><u>Accelerate Your PC's Efficiency: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-net.techidaily.com/adjust-your-cursor-controls-with-yls-mouse-configuration-tutorial/"><u>Adjust Your Cursor Controls with YL's Mouse Configuration Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-leap-into-metas-verified-ecosystem/"><u>ChatGPT's Leap Into Meta's Verified Ecosystem</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guida-completa-ai-top-3-lettori-dvd-gratuiti-per-windows-10-per-una-riproduzione-ottimale-dei-tuoi-film-preferiti/"><u>Guida Completa Ai Top 3 Lettori DVD Gratuiti Per Windows 10 per Una Riproduzione Ottimale Dei Tuoi Film Preferiti</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-starting-youtube-essential-seo-tips/"><u>In 2024, Starting YouTube Essential SEO Tips</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/keep-the-vibes-alive-with-pro-level-karaoke-and-colorful-chart-hits-your-pcdj-party-essential/"><u>Keep the Vibes Alive with Pro-Level Karaoke & Colorful Chart Hits – Your PCDJ Party Essential!</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/mastering-windows-display-configuration-a-comprehensive-tutorial-by-yl-software/"><u>Mastering Window's Display Configuration: A Comprehensive Tutorial by YL Software</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/stunning-high-definition-bmw-3-series-wallpaper-collection-professional-graphics-for-your-device-curated-by-yl-computing/"><u>Stunning High-Definition BMW 3 Series Wallpaper Collection - Professional Graphics for Your Device, Curated by YL Computing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect-for-2024/"><u>The Ultimate Pathway for High-Quality Video Production in Adobe Connect for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/transform-your-mobile-dj-services-with-these-5-powerful-strategies/"><u>Transform Your Mobile DJ Services with These 5 Powerful Strategies!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-decoding-the-functionality-of-youtubes-media-hub/"><u>2024 Approved Decoding the Functionality of YouTube's Media Hub</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa/"><u>2024 Approved Simplified Guide to Incorporating Ken Burns Effect in Camtasa</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-vimeo-vs-youtube-vs-dailymotion-which-video-platform-is-right-for-you/"><u>2024 Approved Vimeo vs YouTube vs Dailymotion Which Video Platform Is Right for You?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/a-step-by-step-guide-to-mastering-business-on-snap-for-2024/"><u>A Step-by-Step Guide to Mastering Business on Snap for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/avoiding-paper-jam-issues-in-your-printouts-tips-and-tricks-by-yl-software-experts/"><u>Avoiding Paper Jam Issues in Your Printouts: Tips and Tricks by YL Software Experts</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/customize-your-pc-with-stunning-bmw-x4m-hd-background-graphics-from-yl-software-solutions/"><u>Customize Your PC with Stunning BMW X4M HD Background Graphics From YL Software Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-new-feature-rich-tracking-and-efficient-reporting-functionality-of-abbyy-flexicapture-solutions/"><u>Discover the New Feature-Rich Tracking & Efficient Reporting Functionality of ABBYY FlexiCapture Solutions</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/easily-enhance-scan-quality-with-yl-software-a-guide-to-adjust-resolution-settings/"><u>Easily Enhance Scan Quality with YL Software - A Guide to Adjust Resolution Settings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-visual-stories-a-detailed-magix-video-pro-x-review/"><u>In 2024, Crafting Visual Stories A Detailed Magix Video Pro X Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-essential-photographers-toolkit-polarr-edition/"><u>In 2024, The Essential Photographer's Toolkit - Polarr Edition</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/introducing-jammtext-version-11-elevate-your-mixing-game-today/"><u>Introducing JammText Version 1.1 - Elevate Your Mixing Game Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/investigating-the-paradigm-of-universal-access-to-a-multitude-of-resources-via-the-world-wide-web/"><u>Investigating the Paradigm of Universal Access to a Multitude of Resources via the World Wide Web</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-battle-royale-comparing-chatgpts-efficacy-to-google-translates-capabilities/"><u>Language Battle Royale: Comparing ChatGPT's Efficacy to Google Translate's Capabilities</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/yl-software-insights-expert-tips-for-maintaining-pc-performance-over-years/"><u>YL Software Insights: Expert Tips for Maintaining PC Performance Over Years</u></a></li>
 </ul></div>
 
