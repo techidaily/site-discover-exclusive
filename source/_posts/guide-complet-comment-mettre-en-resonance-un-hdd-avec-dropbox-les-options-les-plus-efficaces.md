@@ -1,7 +1,7 @@
 ---
 title: "Guide Complet: Comment Mettre en Résonance Un HDD Avec Dropbox - Les Options Les Plus Efficaces"
-date: 2024-12-14T16:58:34.601Z
-updated: 2024-12-15T17:37:06.243Z
+date: 2024-12-24T05:19:28.862Z
+updated: 2024-12-29T18:09:32.116Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab802639c40985f8dc584b2c42bbd.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -60,6 +56,10 @@ Norton Ghost is one **disk imaging and cloning tool** that firstly developed in 
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Norton Ghost 15 Step by Step
 
 Here in this guide, you will get the detailed steps about how to use Symantec Ghost in Windows 11/10/8/7\. You can simply search “**Norton Ghost 15 download**” via your browser to get the tool. As we have mentioned above, it only offers a 30-day free trial. If you prefer a free tool to help you backup, restore or clone your hard drive, you can refer to the [next part](https://tools.techidaily.com/ubackup/products/) to get the best free alternative to Norton Ghost.
@@ -82,7 +82,7 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 4\. Finally, click **OK** to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
@@ -97,6 +97,10 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. After the scanning, select the file you need and click **Recover Files...**
 
 **Recover My Computer:**
@@ -106,14 +110,10 @@ On **Recover My Computer** screen, find and choose the right system restore poin
 [![Recover My Computer](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/recover-now.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 👉 **Note:** If your computer cannot run Windows normally, you can use the Symantec Recovery Disk CD to help you boot your computer. Depending on which version of the product you have purchased, Symantec Recovery Disk is either included on your product CD or as a separate CD. If you don't have a floppy drive, you can create a [Norton Ghost Bootable USB](https://tools.techidaily.com/ubackup/products/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Disk with Norton Ghost
 
@@ -144,6 +144,10 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -154,17 +158,21 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -185,11 +193,7 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Clone Hard Drive
@@ -237,16 +241,12 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -277,11 +277,11 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -298,21 +298,20 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-crystal-clear-captures-removing-fog-from-gopro-shots/"><u>[New] 2024 Approved Crystal Clear Captures Removing Fog From GoPro Shots</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-chic-and-stylish-beauty-videos/"><u>[New] In 2024, Chic and Stylish Beauty Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-humor-haven-in-virtual-realms-mastering-20plus-funny-metaverse-imagery/"><u>[New] In 2024, Humor Haven in Virtual Realms Mastering 20+ Funny Metaverse Imagery</u></a></li>
-<li><a href="https://fox-within.techidaily.com/5-schrittfurschritt-wie-man-den-ordner-windowsold-erfolgreich-entfernt-wenn-sie-zu-windows-10-wechseln/"><u>5 SchrittfürSchritt: Wie Man Den Ordner 'Windows.old' Erfolgreich Entfernt, Wenn Sie Zu Windows 10 Wechseln</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/best-2022-christmas-photo-background-applications-top-5-picks/"><u>Best 2022 Christmas Photo Background Applications: Top 5 Picks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-new-ways-to-connect-on-tiktok-with-innovative-group-chat-functionality-and-trendy-emoji-stickers/"><u>Discover New Ways to Connect on TikTok with Innovative Group Chat Functionality & Trendy Emoji Stickers</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/dynamic-zebra-striped-backgrounds-by-yl-computing-your-ultimate-desktop-wallpaper-collection/"><u>Dynamic Zebra-Striped Backgrounds by YL Computing: Your Ultimate Desktop Wallpaper Collection</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-lava-by-drfone-android/"><u>How to Bypass FRP from Lava?</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/identifying-and-troubleshooting-pc-ram-issues-expert-advice-from-yl-computing/"><u>Identifying and Troubleshooting PC RAM Issues - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y36-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo Y36 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-vibrant-video-vibes-merging-melodies-with-media/"><u>In 2024, Vibrant Video Vibes Merging Melodies with Media</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/master-windows-network-configuration-tips-and-tricks-from-the-experts-at-yl-software/"><u>Master Windows Network Configuration: Tips and Tricks From the Experts at YL Software</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/navigating-security-concerns-and-volatility-in-cryptocurrency-markets-expertise-by-yl-computing-yl-software/"><u>Navigating Security Concerns and Volatility in Cryptocurrency Markets - Expertise by YL Computing, YL Software</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/relocating-excel-workbooks-with-ease-expert-strategies-from-yl-tech-support/"><u>Relocating Excel Workbooks with Ease: Expert Strategies From YL Tech Support</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/solving-your-windows-computers-hardware-glitches-with-guidance-from-yl-software/"><u>Solving Your Windows Computer's Hardware Glitches with Guidance From YL Software</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/troubleshooting-steps-when-your-pcs-power-supply-fails-tips-by-yl-computing/"><u>Troubleshooting Steps When Your PC's Power Supply Fails - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-dial-in-focus-background-out-of-the-way/"><u>[New] 2024 Approved Dial In Focus Background Out Of The Way</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimize-your-storage-without-spending-a-penny-best-30-clouds-with-1tb-included/"><u>[New] Optimize Your Storage Without Spending a Penny Best 30 Clouds with 1TB Included</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-streamline-your-podcast-with-ease/"><u>[New] Streamline Your Podcast With Ease</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-xstudio-prodigy-diving-deep-into-video-studio-mechanics/"><u>[Updated] In 2024, XStudio Prodigy Diving Deep Into Video Studio Mechanics</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/best-tools-and-applications-for-enhancing-your-pcs-efficiency-recommendations-by-yl-tech-solutions/"><u>Best Tools and Applications for Enhancing Your PC's Efficiency - Recommendations by YL Tech Solutions</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/bmw-e46-desktop-graphics-and-screen-savers-high-quality-hd-walls-mosaics-and-visuals-yl-computing/"><u>BMW E46 Desktop Graphics & Screen Savers: High-Quality HD Walls, Mosaics, and Visuals - YL Computing</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/customizing-the-windows-control-panel-like-a-pro-insider-advice-by-yl-software-experts/"><u>Customizing the Windows Control Panel Like a Pro: Insider Advice by YL Software Experts</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/diverse-collection-of-sports-image-collections-and-graphics-for-customization-powered-by-yl-software-solutions/"><u>Diverse Collection of Sports Image Collections & Graphics for Customization - Powered by YL Software Solutions</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/gary-gensler-reveals-5-billion-sec-enforcement-earnings-soft-rebuke-on-cryptocurrency-insights-by-yl-computing/"><u>Gary Gensler Reveals $5 Billion SEC Enforcement Earnings; Soft Rebuke on Cryptocurrency - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/how-safe-is-your-system-expert-advice-on-cybersecurity-by-yl-software-specialists/"><u>How Safe Is Your System? Expert Advice on Cybersecurity by YL Software Specialists</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-note-30-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s23-fe-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S23 FE to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-premier-10-subtitle-editing-software-online/"><u>In 2024, Premier 10 Subtitle Editing Software Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stepping-into-silence-fading-out-audio-in-adobe-premiere-pro/"><u>In 2024, Stepping Into Silence Fading Out Audio in Adobe Premiere Pro</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/the-enduring-influence-of-mao-zedong-a-comprehensive-analysis-from-the-experts-at-yl-software/"><u>The Enduring Influence of Mao Zedong: A Comprehensive Analysis From the Experts at YL Software</u></a></li>
 </ul></div>
 
