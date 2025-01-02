@@ -1,7 +1,7 @@
 ---
 title: Expand Your Mixing Skills with Hercules DJControl Starlight and Inpulse 200 - Now DEX-3 Ready!
-date: 2024-12-27T04:41:52.752Z
-updated: 2024-12-30T06:12:13.011Z
+date: 2024-12-30T14:16:55.784Z
+updated: 2024-12-31T18:12:57.854Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Hercules DJControl Starlight
@@ -33,7 +33,7 @@ By downloading and placing the map files (below) in the DJ Controller controller
 [![Hercules DJControl Starlight](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=300%2C106&ssl=1 "Hercules DJControl Starlight")](https://i0.wp.com/pcdj.com/wp-content/uploads/2020/06/10244000945cd0ed4c41b8d.jpg?fit=1000%2C352&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ultra-compact, ultra-light, ultra-practical and ultra-unique with its lights, the DJControl Starlight packs all the features needed to mix and scratch. With its built-in audio interface, the DJControl Starlight offers pre-listening in the headphones so you can then play your mix on speakers, which is perfect for learning or creating new mixes. The system is so comprehensive for its size that it boasts all the essential features such as bass equalization/filter knobs for smooth transitions or touch-sensitive jog wheels for easy scratching. The added bonus: the bright and powerful RGB backlighting with unique strobe effects to make it easier to learn how to mix.
@@ -49,7 +49,7 @@ Like the Numark DJ2GO2, the Hercules DJControl Starlight is a “throw it in you
 [![Hercules DJControl Inpulse 200](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=300%2C229&ssl=1 "Hercules DJControl Inpulse 200")](https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/image.jpg?fit=1030%2C787&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [DJControl Inpulse 200](https://www.hercules.com/en-us/product/djcontrolinpulse200/) has the industry-standard look like many other popular entry-level controllers on the market. It’s equipped with two decks with 8 performance pads per decks, touch-sensitive jog wheels, a 3 band EQ and filter on the mixer and a built-in audio interface with headphone pre-fade listening. It’s a step up from the Starlight, and will run you $119.99 at most online DJ equipment shops. Another small form controller that you can throw in a bag and hit the road with. [Learn more about the specifications on the Hercules DJControl](https://www.hercules.com/en-us/product/djcontrolinpulse200/).
@@ -77,7 +77,7 @@ Keep an eye out for a blog post regarding DEX 3 support for a couple additional 
 _Have questions about the **Hercules DJ Control Starlight** or **Hercules DJ Control Inpulse 200** and how they work with our DEX 3 **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,16 +99,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/06/herculessupported.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-exceptional.techidaily.com/modwmvmovavi/"><u>線上專業MOD轉WMV工具，以Movavi提供無限可能性</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/boost-your-pcs-efficiency-expert-tips-from-yl-computing-yl-software-solutions/"><u>Boost Your PC's Efficiency: Expert Tips From YL Computing - YL Software Solutions</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/discover-ideal-digital-safekeeping-options-for-documents-and-files-guided-by-experts-at-yl-software/"><u>Discover Ideal Digital Safekeeping Options for Documents & Files, Guided by Experts at YL Software</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/exploring-common-triggers-for-complete-system-failures-with-guidance-from-yl-software-professionals/"><u>Exploring Common Triggers for Complete System Failures with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-easy-webcam-video-capture-using-vlc/"><u>In 2024, Easy Webcam Video Capture Using VLC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/microsofts-groundbreaking-announcements-at-the-surface-and-artificial-intelligence-event-covered-by-zdnet-an-overview/"><u>Microsoft's Groundbreaking Announcements at the Surface & Artificial Intelligence Event Covered by ZDNET: An Overview</u></a></li>
-<li><a href="https://extra-support.techidaily.com/omniimageai-holistic-editing-experience-for-2024/"><u>OmniImageAI Holistic Editing Experience for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/resolving-network-interface-drivers-steps-and-tips-by-yl-software-professionals/"><u>Resolving Network Interface Drivers: Steps & Tips by YL Software Professionals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-the-issue-making-your-hard-drive-visible-in-windows-10/"><u>Solving the Issue: Making Your Hard Drive Visible in Windows 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nubia-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Device</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/understanding-the-risks-should-you-disable-windows-defender-on-your-computer-guidance-from-yl-software-experts/"><u>Understanding the Risks: Should You Disable Windows Defender on Your Computer? - Guidance From YL Software Experts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-creating-catchy-youtube-channel-titles-for-blogging-and-filming-no-more-than-156-characters/"><u>[New] The Ultimate Guide to Creating Catchy Youtube Channel Titles For Blogging & Filming (No More than 156 Characters)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>[Updated] In 2024, Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/anotacao-semantica/"><u>Anotação Semântica</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/command-your-car-to-evolve-with-help-from-chatgpt/"><u>Command Your Car to Evolve with Help From ChatGPT</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/die-beste-kostengunstige-datensicherungssoftware-fur-dropbox-nas-sichere-datenaufbewahrung/"><u>Die Beste Kostengünstige Datensicherungssoftware Für Dropbox NAS - Sichere Datenaufbewahrung.</u></a></li>
+<li><a href="https://win-web.techidaily.com/disabling-automatic-windows-updates-via-the-control-panel-a-step-by-step-guide-tips-from-techwhiz/"><u>Disabling Automatic Windows Updates via the Control Panel: A Step-by-Step Guide - Tips From TechWhiz</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-apple-innovations-in-ios-181-beta-version-learn-how-to-participate-tech-insider-zdnet/"><u>Discover the Latest Apple Innovations in iOS 18.1 Beta Version - Learn How to Participate | Tech Insider ZDNet</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/effortless-conversion-techniques-for-switching-from-traditional-mbr-hdds-to-modern-gpt-ssd-drives-avoiding-operating-system-reinstalls/"><u>Effortless Conversion Techniques for Switching From Traditional MBR HDDs to Modern GPT SSD Drives Avoiding Operating System Reinstalls</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokiawithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokiawith/without a PC</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/werkvrije-tijden-verkrachten-de-top-5-getestte-formatservaringen/"><u>Werkvrije Tijden Verkrachten: De Top 5 Getestte Formatservaringen</u></a></li>
 </ul></div>
 
