@@ -1,7 +1,7 @@
 ---
 title: "Decoding Sun Yat-Sen's Influence in Establishing the ROC: An Analysis by YL Technologies | YL Systems"
-date: 2025-01-04T00:14:07.181Z
-updated: 2025-01-08T20:14:49.692Z
+date: 2025-01-11T16:47:42.519Z
+updated: 2025-01-14T20:43:40.180Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,18 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-tips-altering-video-pace-in-instagram-stories/"><u>[New] Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-unleash-creativity-discovering-the-most-acclaimed-photo-swap-apps/"><u>[New] Unleash Creativity Discovering the Most Acclaimed Photo Swap Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-easy-techniques-for-snagging-youtube-songs-and-commentary-for-2024/"><u>[Updated] Easy Techniques for Snagging YouTube Songs and Commentary for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/1728498068367-windows-10/"><u>「Windows 10リカバリーアイテム」が修復後に表示されない - 調査手順</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/comment-connecter-et-mettre-a-jour-son-dossier-onedrive-avec-un-disque-externe-pour-une-sauvegarde-efficace/"><u>Comment Connecter Et Mettre À Jour Son Dossier OneDrive Avec Un Disque Externe Pour Une Sauvegarde Efficace</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/comprehensive-no-cost-data-protection-with-aomei-for-multiple-systems-servers-and-desktops/"><u>Comprehensive, No-Cost Data Protection with AOMEI for Multiple Systems: Servers & Desktops</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/dvdandhdd/"><u>DVDのファイルに変換&HDDへ自由配布 - ダウンロード詳細</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-solutions-to-repair-windows-update-error-0x8024401c-for-both-windows-10-and-11-users/"><u>Efficient Solutions to Repair Windows Update Error 0X8024401C for Both Windows 10 & 11 Users</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/ejemplo-y-tutorial-completo-respaldar-archivos-al-disco-duro-externo-con-sistemas-operativos-windows-versiones-10-8-y-e7/"><u>Ejemplo Y Tutorial Completo: Respaldar Archivos Al Disco Duro Externo Con Sistemas Operativos Windows (Versiones 10, 8 Y E7)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/inside-the-dji-phantom-3-pro-advantages-for-2024/"><u>Inside the DJI Phantom 3 Pro Advantages for 2024</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/professionelle-datensicherungs-and-wiederherstellungsstrategien-fur-unternehmenskunden-aomei-backupper-experte-edition/"><u>Professionelle Datensicherungs- & Wiederherstellungsstrategien Für Unternehmenskunden - AOMEI Backupper Experte Edition</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-allure-of-oneplus-9-pro-explored-breathtaking-style-ultra-fast-processor-and-next-level-camera-experience-reviewed/"><u>The Allure of OnePlus 9 Pro Explored: Breathtaking Style, Ultra-Fast Processor, and Next-Level Camera Experience Reviewed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Infinix Note 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/windowspanasonicssd/"><u>Windows用アドベンチャー版PANASONICSSD複写ツール</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-ultimate-selection-of-high-tech-glasses/"><u>2024'S Ultimate Selection of High-Tech Glasses</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/isoiso/"><u>多種形式へのISO変換技術：ISO画像を動画にする専門家の方法</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-12r-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus 12R Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/effortless-guide-watching-webm-media-on-your-iphone-with-these-effective-methods/"><u>Effortless Guide: Watching WebM Media on Your iPhone with These Effective Methods</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/hd-video-converter-factory-for-mobile-devices-download-guide-and-tips-gratuito/"><u>HD Video Converter Factory for Mobile Devices - Download Guide & Tips Gratuito</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-play-8t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Play 8T to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/screen-capture-simplicity-with-cybernetic-tools/"><u>Screen Capture Simplicity with Cybernetic Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/small-size-big-sound-explore-how-this-palm-sized-bluetooth-audio-marvel-can-transform-your-listening-experience-zdnet/"><u>Small Size, Big Sound: Explore How This Palm-Sized Bluetooth Audio Marvel Can Transform Your Listening Experience | ZDNET</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-tutorial-setting-up-the-functional-neptune-rising-extension-in-kodi/"><u>Step-by-Step Tutorial: Setting Up the Functional Neptune Rising Extension in Kodi</u></a></li>
+<li><a href="https://driver-install.techidaily.com/support-package-asus-usb-bt400-drivers/"><u>Support Package: Asus USB-BT400 Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unpacking-the-powerhouse-inside-look-at-the-classified-evga-x670e-motherboard-why-its-worth-1300plus/"><u>Unpacking the Powerhouse: Inside Look at the Classified EVGA X670E Motherboard – Why It's Worth $1,300+</u></a></li>
+<li><a href="https://win-studio.techidaily.com/upgrading-to-windows-11-without-cost-current-status-explained-by-zdnet/"><u>Upgrading to Windows 11 Without Cost: Current Status Explained by ZDNet</u></a></li>
 </ul></div>
 
